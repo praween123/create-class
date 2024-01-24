@@ -7,6 +7,7 @@ public class demo3{
 		System.out.print("your age");
 
 		System.out.print("your Name");
+		
 	}
 }
 		
